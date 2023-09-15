@@ -1,4 +1,4 @@
- const Person = require('../models/person')
+const Person = require('../models/person')
 const createError = require('http-errors')
 const personValidationSchema = require('../middleware/personvalidation')
 const person = require('../models/person')
